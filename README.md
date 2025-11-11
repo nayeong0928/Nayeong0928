@@ -16,11 +16,7 @@ Main Tools: Java, Spring Boot, Spring JPA
 
 Currently Developing Tools: Java, Spring Framework, Linux
 
-&nbsp;
 
-## 📝 Records
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qoskdud0928)](https://github.com/@qoskdud0928)
 
 &nbsp;
 
